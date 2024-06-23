@@ -1,0 +1,13 @@
+{
+  "allowedIps": ["172.23.0.36"],
+  "users": [
+    {
+      "username": "kyouka",
+      "password": "kyouka19"
+    },
+    {
+      "username": "fajar",
+      "password": "fajarv2"
+    }
+  ]
+}
